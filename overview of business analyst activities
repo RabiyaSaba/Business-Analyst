@@ -1,0 +1,86 @@
+
+OVERVIEW OF BA ACTIVITIES THROUGHOUT THE LIFE CYCLE
+
+•	This chapter includes step by steps guidance for a BA over the course of an IT projects 
+•	The book discussed about the question that the BA need to ask and can be used to help for the deliverables 
+•	Discussed about BA tools and techniques 
+•	Basically this is the diagram  to showcase the software development life cycle (noble path ) 
+
+1.	INTIATION : make the business case of the projects , and proof of concepts , also need to discussed the user experience 
+
+2.	The main aim of initiation phase is to develop the business case for  the projects
+
+3.	The BA assist the project manager by identifying the stakeholder , business services and processes , by the end of the day key functionalities are identified 
+
+4.	When non agile process is used we make use of change management 
+
+WHAT IS INCLUDED IN THE INTIATION PHASE 
+1. Kick off meetings:  meeting to discuss main issue, cost, possible benefits and redo 
+1.	Document required in kick-off : RFC ( request for change ) 
+
+2.	Deliverables : pare to chart 	
+3.	Cause and effects graphs 
+4.	Cost and benefits analysis 
+5.	Business impact analysis 
+
+
+QUESTION TO BE ASKED 
+ Related to opportunity, risk, health and benefits, how often the issue occurs etc. 
+
+
+2. Identify the stakeholder:
+
+RFC has been issued and triggering the projects 
+Here we can create the high level RFC documentation 
+
+QUESTION TO BE ASKED: 
+Who will be affected due to success and failures, users, customers, and what is stakeholder interest 
+
+3. BUSINESS IMPACT 
+Analyse risk at start of each iteration, reassess regularly 
+DOCUMENTS: 
+Vision documents 
+Business impact and analysis 
+Proposed changes and business services (BRD) 
+
+QUESTION: 
+Threats, positive impacts, likelihood the error will occurs, best strategy 
+
+4. REQUIREMENT MANAGEMENT SETUP AND PLANNING 
+Requirement traceability matrix, ump diagram, vision documents, overview documentation, business use case, etc. 
+
+QUESTION 
+Authors, responsibility, supports in the final products 
+
+DESCRIBE USERS: 
+Impact of business process workflow 
+Documentation: 
+Ump , did( data flow diagram ) , bpd( business process diagram ) ,CMS . Role map etc. 
+
+REQUIREMENT MANAGEMENT MONITOR: 
+Static diagram, business concepts and rules 
+Such as include ump: business perspective diagrams 
+ERD (entity relationship diagram) 
+
+DEFINE NON FUNCTIONAL BUSINESS SERVICES 
+INVESTIGATE SOLUTION IN EARLY DESIGN 
+QA PLANS 
+REVIEWS AND SIGN OFF 
+
+Rest is remaining need to read and make points 
+
+
+DISCOVERY: architecture proof of concepts is delivered 
+Understand the solution design and behaviour and create the base for architecture 
+Proof of concepts are delivered in this phases 
+
+
+
+
+•	CONSTRUCTION : complete the analysis and design phase , designing and coding appears In all the phases but peak in this phases 
+
+•	FINAL V&V: this is final verification and validation. basically perform final testing before the product and services , testing occurs majorly in this phase but testing occurs throughout the phases 
+
+•	CLOSEOUT : manage and coordinate deployment into production and close the IT projects 
+
+
